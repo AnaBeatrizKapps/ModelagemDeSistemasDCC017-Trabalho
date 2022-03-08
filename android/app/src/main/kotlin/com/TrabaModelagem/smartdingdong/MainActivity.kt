@@ -1,0 +1,6 @@
+package com.TrabaModelagem.smartdingdong
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}

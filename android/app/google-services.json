@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "318672129038",
+    "project_id": "smart-ding-dong",
+    "storage_bucket": "smart-ding-dong.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318672129038:android:1e26953ed78ed983f0005f",
+        "android_client_info": {
+          "package_name": "com.TrabaModelagem.smartdingdong"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "318672129038-isjh2t8h8jl8ndllelfdcuqq682ja94f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByu7i2uJ9adGvevWc3dVYfuMpDaBI4wGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "318672129038-isjh2t8h8jl8ndllelfdcuqq682ja94f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
